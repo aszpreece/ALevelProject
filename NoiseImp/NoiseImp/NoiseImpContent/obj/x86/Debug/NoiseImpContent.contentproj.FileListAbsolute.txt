@@ -1,0 +1,10 @@
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache
+G:\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache
+E:\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache
+F:\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache
+N:\computing\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache
+E:\2017Comp\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache
+F:\2017Comp\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache
+N:\computing\2017Comp\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache
+E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImpContent\obj\x86\Debug\NoiseImpContent.contentprojResolveAssemblyReference.cache

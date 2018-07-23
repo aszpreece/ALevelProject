@@ -1,0 +1,13 @@
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\ThirdParty\bin\Debug\ThirdParty.dll
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\ThirdParty\bin\Debug\ThirdParty.pdb
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\ThirdParty\obj\Debug\ThirdParty.dll
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\ThirdParty\obj\Debug\ThirdParty.pdb
+N:\Visual Studio 2010\Projects\NoiseImp\ThirdParty\bin\Debug\ThirdParty.dll
+N:\Visual Studio 2010\Projects\NoiseImp\ThirdParty\bin\Debug\ThirdParty.pdb
+N:\Visual Studio 2010\Projects\NoiseImp\ThirdParty\obj\Debug\ThirdParty.dll
+N:\Visual Studio 2010\Projects\NoiseImp\ThirdParty\obj\Debug\ThirdParty.pdb
+G:\NoiseImp\ThirdParty\bin\Debug\ThirdParty.dll
+G:\NoiseImp\ThirdParty\bin\Debug\ThirdParty.pdb
+G:\NoiseImp\ThirdParty\obj\Debug\ThirdParty.csprojResolveAssemblyReference.cache
+G:\NoiseImp\ThirdParty\obj\Debug\ThirdParty.dll
+G:\NoiseImp\ThirdParty\obj\Debug\ThirdParty.pdb

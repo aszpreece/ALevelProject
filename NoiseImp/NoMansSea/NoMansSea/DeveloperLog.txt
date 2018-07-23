@@ -1,0 +1,17 @@
+﻿        //DIARY
+            //Day 1: Started on initial noise implementation (it failed)
+            //Day 2: Made a little more progress but still not quite right
+            //Day 3: Finally got some noise going
+            //       Started on creating island algorithm and came up with a good prototype
+            //Day 4: Decided to tweak algorithm so islands were contained within the screen.
+            //       Came up with better gradient equation
+            //       Changed layered noise algorithm
+            //       Changed perlin function to take a scale value 
+            //       Finalised island tech demo
+            //Day 5: Started on actual game
+            //       Came up with storage solution for level
+            //Day 6: Character created with accleration based movement
+            //Day 7: Entities are now all rendered using one method allowing for more than one entity to exist. Previously this was not possible due to some poor coding
+            //       The player can no longer go through walls and will bounce off them
+            //       The player will go slower in water
+			//       Added a procedurally generated grass texture

@@ -1,0 +1,82 @@
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\ThirdParty.dll
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\ThirdParty.pdb
+N:\Visual Studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+N:\Visual Studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+N:\Visual Studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+N:\Visual Studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+N:\Visual Studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+N:\Visual Studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+N:\Visual Studio 2010\Projects\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb
+G:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+G:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+G:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+G:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+G:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+G:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+G:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb
+E:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+E:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+E:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+E:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+E:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+E:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+E:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb
+F:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+F:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+F:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+F:\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+F:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+F:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+F:\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb
+N:\computing\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+N:\computing\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+N:\computing\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+N:\computing\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+N:\computing\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+N:\computing\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+N:\computing\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+N:\computing\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb
+E:\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+E:\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+E:\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+E:\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+E:\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+E:\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+E:\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb
+F:\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+F:\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+F:\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+F:\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+F:\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+F:\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+F:\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb
+N:\computing\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+N:\computing\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+N:\computing\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+N:\computing\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+N:\computing\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+N:\computing\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+N:\computing\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+N:\computing\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb
+E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.exe
+E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\NoiseImp.pdb
+E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.dll
+E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\BasicNoiseLib.pdb
+E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.csprojResolveAssemblyReference.cache
+E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.exe
+E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\NoiseImp.pdb

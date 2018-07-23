@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{63376F28-F0F9-4A8C-B819-6C7FD2D22D70}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImpContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Documents\2017Comp\NoiseImp\NoiseImp\NoiseImp\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-02-18T13:49:10.3149115+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

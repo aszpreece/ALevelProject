@@ -1,0 +1,56 @@
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.dll
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.pdb
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.dll
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.pdb
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.csprojResolveAssemblyReference.cache
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.dll
+\\sac-fle-002.st-ambrose.internal\student_profiles_10\10preecetomasz\documents\visual studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.xml
+N:\Visual Studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.dll
+N:\Visual Studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.pdb
+N:\Visual Studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.csprojResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.dll
+N:\Visual Studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.pdb
+N:\Visual Studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.dll
+N:\Visual Studio 2010\Projects\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.xml
+G:\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.dll
+G:\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.pdb
+G:\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.dll
+G:\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.xml
+G:\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.csprojResolveAssemblyReference.cache
+G:\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.dll
+G:\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.pdb
+E:\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.dll
+E:\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.pdb
+E:\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.dll
+E:\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.xml
+E:\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.csprojResolveAssemblyReference.cache
+E:\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.dll
+E:\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.pdb
+F:\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.dll
+F:\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.pdb
+F:\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.dll
+F:\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.xml
+F:\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.csprojResolveAssemblyReference.cache
+F:\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.dll
+F:\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.pdb
+F:\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.dll
+F:\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.pdb
+F:\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.dll
+F:\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.xml
+F:\2017Comp\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.csprojResolveAssemblyReference.cache
+F:\2017Comp\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.dll
+F:\2017Comp\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.pdb
+N:\computing\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.dll
+N:\computing\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.pdb
+N:\computing\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.dll
+N:\computing\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.xml
+N:\computing\2017Comp\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.csprojResolveAssemblyReference.cache
+N:\computing\2017Comp\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.dll
+N:\computing\2017Comp\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.pdb
+E:\Documents\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.dll
+E:\Documents\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\BasicNoiseLib.pdb
+E:\Documents\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Documents\2017Comp\BasicNoiseLib\BasicNoiseLib\bin\Debug\Microsoft.Xna.Framework.xml
+E:\Documents\2017Comp\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.csprojResolveAssemblyReference.cache
+E:\Documents\2017Comp\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.dll
+E:\Documents\2017Comp\BasicNoiseLib\BasicNoiseLib\obj\Debug\BasicNoiseLib.pdb
